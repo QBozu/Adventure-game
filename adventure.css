@@ -1,0 +1,26 @@
+#game-container{
+margin: 0 auto;
+width: 1000px;
+height: 700px;
+}
+
+#title{
+margin: 0 auto;
+text-align: center;
+}
+
+#description{
+margin: 0 auto;
+text-align: center;
+}
+
+#game-buttons{
+margin: 0 auto;
+text-align: center;
+}
+
+body{
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
